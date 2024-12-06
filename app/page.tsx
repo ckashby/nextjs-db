@@ -18,7 +18,7 @@ export default function Page() {
             <a href="https://nextjs.org/learn/" className="text-green-500">
               Next.js Learn Course
             </a>
-            , brought to you by Vercel.
+            , <a href="#" className="text-red-500">brought</a> to you by <span className="text-blue-600">Vercel.</span>
           </p>
           <Link
             href="/login"
