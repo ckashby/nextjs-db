@@ -1,7 +1,7 @@
 export default function Page() {
     return (
         <>
-            <p>Invoices Page</p>
+            <h2>Invoices Page</h2>
         </>
     )
 }
