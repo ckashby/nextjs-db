@@ -7,8 +7,6 @@ import {
     fetchLatestInvoices,
     fetchCardData
 } from '@/app/lib/data';
-
-// totalPaidInvoices, totalPendingInvoices, numberOfInvoices, numberOfCustomers
 import Image from "next/image";
 
 export default async function Page() {
